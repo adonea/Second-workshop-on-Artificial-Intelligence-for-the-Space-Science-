@@ -21,8 +21,8 @@ Deadline to send the title and an abstract for a 15-20 min presentation: 19th Ap
 Event Dates: 2nd to 3rd May 2024
 
 **Workshop: hybrid format**
-Meeting ID: 821 2403 9507 
-Passcode: 340512
+Meeting ID: TBA once you enroll into the meeting
+Passcode: xxxxxxxxxx
 
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
