@@ -33,6 +33,8 @@ Passcode: xxxxxxxxxx
 </P>
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
+Prof Brad Carter (USQ)
+
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
 
