@@ -2,13 +2,13 @@
 <html>
 <head>
  3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning <p>
-	
+May 2, 3 2024, online hybrid format	
 </head>
 <body>
 
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Logo_MDFI_MON_USQ.jpeg)
 
-The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
+The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to announce the Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
 
 The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
 
@@ -16,11 +16,14 @@ The workshop aims to foster Solar and Stellar physics and Space Physics research
 
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
 
+
 Deadline to send the title and an abstract for a 15-20 min presentation: 19th April
 
 Event Dates: 2nd to 3rd May 2024
 
 **Workshop: hybrid format**
+Enrol: https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=6930e5eccc0b4509ab73b301e984a776&id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u
+
 Meeting ID: TBA once you enroll into the meeting
 Passcode: xxxxxxxxxx
 
