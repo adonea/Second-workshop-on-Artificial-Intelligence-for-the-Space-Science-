@@ -22,7 +22,7 @@ Deadline to send the title and an abstract for a 15-20 min presentation: 19th Ap
 Event Dates: 2nd to 3rd May 2024
 
 **Workshop: hybrid format**
-Enrol: https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=6930e5eccc0b4509ab73b301e984a776&id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u
+Registration: <a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=6930e5eccc0b4509ab73b301e984a776&id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u">Register here</a> 
 
 Meeting ID: TBA once you enroll into the meeting
 Passcode: xxxxxxxxxx
