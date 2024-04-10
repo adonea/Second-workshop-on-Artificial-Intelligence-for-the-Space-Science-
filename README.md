@@ -142,7 +142,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:00-1:25 p.m. (including 5 min questions)
+        1:00-1:20 p.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Mark Cheung<br><em>CSIRO Australia</em>
@@ -157,7 +157,24 @@ A Mt Kent Observatory visit can be organised after the workshop.
        talk
       </td>
     </tr>	 
-   
+   <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:20-1:40 p.m. (including 5 min questions)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dr Mahsa Salehi<br><em>Department of Data Science and Artificial Intelligence, Monash University, Melbourne, VIC, Australia</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Improving position encoding of transformers for multivariate time series classification
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+    
 
     
   </tbody>
@@ -181,7 +198,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
         9:00-9:20 a.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a>a> <br><em>Yale University, USA</em>
+       <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a> <br><em>Yale University, USA</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Detecting Solar Flares in Sun-as-a-Star Observations with Convolutional Neural Networks
@@ -195,7 +212,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
+        9:20-9:40 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
@@ -212,13 +229,13 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
+        9:40-10:00 a.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
+       Mitch Creelman <br><em>National Solar Observatory, USA</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
+        Quality Assurance and Real Time Anomaly Detection in Production Datasets: Practical Applications of Machine Learning
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
@@ -229,13 +246,13 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
+        10:00-10:30 p.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
+       Dr XX <br><em> XX</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
+        TBC
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
@@ -248,16 +265,16 @@ A Mt Kent Observatory visit can be organised after the workshop.
   <tbody>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
+        10:30 a.m.-10:50 am
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
+       coffee break / virtual room or in person
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Title
+        coffee 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+        --
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        talk
@@ -265,7 +282,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
+        10:50 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        speaker<br><em>Institute</em>
