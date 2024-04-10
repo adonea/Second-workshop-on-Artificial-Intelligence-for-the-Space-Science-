@@ -128,6 +128,23 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
+        12:00-1:00 p.m. 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Lunch<br><em>Toowoomba Campus</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        --
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       lunch
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
         1:00-1:25 p.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
