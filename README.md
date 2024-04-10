@@ -105,10 +105,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
       <td style="text-align: center;" headers="table69225r1c5">
        general
       </td>
-    </tr>
-	  
-	  
-	 
+    </tr>	  	 
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
         9:00 a.m. - 12 noon, coffee break 10:30-10:50 am
