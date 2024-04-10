@@ -157,23 +157,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
        talk
       </td>
     </tr>	 
-   <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
+   
 
     
   </tbody>
@@ -193,21 +177,72 @@ A Mt Kent Observatory visit can be organised after the workshop.
 <table id="table69225">
   <thead>
     <tr>
-      <th style="text-align: center;" id="table69225r1c1">
-        Time
-      </th>
-      <th style="text-align: center;" id="table69225r1c2">
-        Presenter
-      </th>
-      <th style="text-align: center;" id="table69225r1c3">
-        Title
-      </th>
-      <th style="text-align: center;" id="table69225r1c4">
-        Recorded session link
-      </th>
-      <th style="text-align: center;" id="table69225r1c5">
-        Repos, Githubs
-      </th>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00-9:20 a.m. (including 5 min questions)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a>a> <br><em>Yale University, USA</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Detecting Solar Flares in Sun-as-a-Star Observations with Convolutional Neural Networks
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:25-1:45 p.m. (including 5 min questions)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:25-1:45 p.m. (including 5 min questions)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:25-1:45 p.m. (including 5 min questions)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
     </tr>
   </thead>
   <tbody>
