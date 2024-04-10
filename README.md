@@ -131,7 +131,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
        Lunch<br><em>Toowoomba Campus</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        
+       -- 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         --
