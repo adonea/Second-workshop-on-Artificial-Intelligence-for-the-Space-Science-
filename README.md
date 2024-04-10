@@ -126,7 +126,6 @@ A Mt Kent Observatory visit can be organised after the workshop.
        workshop 
       </td>
     </tr>
-
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
         1:00-1:25 p.m. (including 5 min questions)
@@ -143,10 +142,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
       <td style="text-align: center;" headers="table69225r1c5">
        talk
       </td>
-    </tr>
-
-    
-	 
+    </tr>	 
    <tr>
       <td style="text-align: center;" headers="table69225r1c1">
         1:25-1:45 p.m. (including 5 min questions)
