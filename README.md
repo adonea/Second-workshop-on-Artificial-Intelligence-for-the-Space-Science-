@@ -174,7 +174,23 @@ A Mt Kent Observatory visit can be organised after the workshop.
        talk
       </td>
     </tr>
-    
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+       ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
 
     
   </tbody>
@@ -260,29 +276,12 @@ A Mt Kent Observatory visit can be organised after the workshop.
       <td style="text-align: center;" headers="table69225r1c5">
        talk
       </td>
-    </tr>
+    </tr>  
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        10:30 a.m.-10:50 am
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       coffee break / virtual room or in person
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        coffee 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        --
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:50 a.m.
+        xx a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        speaker<br><em>Institute</em>
@@ -299,41 +298,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
+        xx a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        speaker<br><em>Institute</em>
