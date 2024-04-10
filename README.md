@@ -106,109 +106,11 @@ A Mt Kent Observatory visit can be organised after the workshop.
        general
       </td>
     </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m. - 12 noon, coffee break 10:30-10:50 am
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       < a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Training for feature detection 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       workshop 
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:00-1:25 p.m. (including 5 min questions)
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       Dr Mark Cheung<br><em>CSIRO Australia</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        AI Vision in Space and Astronomy Science in Australia
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:25-1:45 p.m. (including 5 min questions)
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Improving Far-Side Solar Active Region Detection: A Deep Learning Approach
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
 	  
+	  
+	 
+    
+	 
    
   </tbody>
 </table>
