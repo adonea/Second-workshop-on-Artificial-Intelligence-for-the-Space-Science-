@@ -114,7 +114,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
         9:00 a.m. - 12 noon, coffee break 10:30-10:50 am
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       < a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
+       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Training for feature detection 
