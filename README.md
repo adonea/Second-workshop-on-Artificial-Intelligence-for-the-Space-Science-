@@ -100,7 +100,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
         Administration, python and github resources, google collabs.
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        
+        --
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        general
