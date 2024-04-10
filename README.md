@@ -350,19 +350,19 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m.
+        1:00 p.m. -4p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
+       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Title
+       Workshop: Time series forcasting with ML
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       talk
+       workshop
       </td>
     </tr>
 	  
