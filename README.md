@@ -248,7 +248,7 @@ Tata Institute of Fundamental Research, Mumbai
   <thead>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00-9:20 a.m. (may be 15 mins only TBA)
+        9:00-9:20 a.m. (may be 15 mins , TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a> <br><em>Yale University, USA</em>
@@ -265,7 +265,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:20-9:40 a.m. (may be 15 mins only TBA)
+        9:20-9:40 a.m. (may be 15 mins , TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
@@ -282,7 +282,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:40-10:00 a.m. (may be 15 mins only TBA)
+        9:40-10:00 a.m. (may be 15 mins , TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Mitch Creelman <br><em>National Solar Observatory, USA</em>
@@ -302,10 +302,10 @@ Tata Institute of Fundamental Research, Mumbai
         -10:00 a.m. (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      XX Exoplanets ? <br><em></em>
+      XX Exoplanets Detection? <br><em></em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        
+        --
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
@@ -319,7 +319,7 @@ Tata Institute of Fundamental Research, Mumbai
         10:00-10:15 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        speedy coffee break
+         coffee break
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         TBC
@@ -367,7 +367,41 @@ Tata Institute of Fundamental Research, Mumbai
        meet virtually 
       </td>
     </tr>	  
-   
+   <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2:00 p.m. - 2:30 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+      AI trivia
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+      USQ/Monash trivia, who does what? flux pool 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        3 minutes presentation, show your best graphic of recent research
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       group
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2:30 p.m. - 2:45 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+      speaker
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+      institution
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+       <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talks
+      </td>
+    </tr>
+	  
   </tbody>
 </table>
 <p>
