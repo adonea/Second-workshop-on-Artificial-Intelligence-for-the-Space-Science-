@@ -414,7 +414,7 @@ Tata Institute of Fundamental Research, Mumbai
 
 
 
-<details><summary>Second workshop and its resources:  23rd Feb 2023 Timetable</summary>
+<details><summary>Previous meetings: Second workshop and its resources:  23rd Feb 2023 Timetable</summary>
 <p>
 
 
