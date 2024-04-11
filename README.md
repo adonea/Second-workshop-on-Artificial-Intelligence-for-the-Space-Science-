@@ -218,7 +218,7 @@ Tata Institute of Fundamental Research, Mumbai
         2:20-2:40 (20 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dan Marrable, LEad Data Scientist, Curtin Institute for Data Science
+       Dr. Dan Marrable, Lead Data Scientist, Curtin Institute for Data Science
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Overview of AI/ML applications used at CIDS
@@ -302,7 +302,7 @@ Tata Institute of Fundamental Research, Mumbai
         10:00-10:30 p.m. (including 5 min questions)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dr XX <br><em> XX</em>
+        XX <br><em> XX</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         TBC
@@ -352,10 +352,10 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:00 p.m. -4p.m.
+        1:00 p.m. - 4:00 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
+       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
        Workshop: Time series forcasting with ML
