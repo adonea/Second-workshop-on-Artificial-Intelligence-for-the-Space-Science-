@@ -98,13 +98,13 @@ A Mt Kent Observatory visit can be organised after the workshop.
         8:30 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       LOC housing  <br><em>Local event + online </em>
+       welcome to UniSQ, overview of relevant UniSQ research, feature of AI at USQueensland  <br><em></em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Administration, python and github resources, google collabs.
+        Prof. Brad Carter
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        --
+        Centre of Astrophysics, USQ
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        general
