@@ -176,13 +176,14 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        ...
+        1:40-2:00
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       ...
-      </td>
+       Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
+Tata Institute of Fundamental Research, Mumbai 
+  </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       ...
+       TBA: AI 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
