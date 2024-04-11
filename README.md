@@ -248,7 +248,7 @@ Tata Institute of Fundamental Research, Mumbai
   <thead>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00-9:20 a.m. (including 5 min questions)
+        9:00-9:20 a.m. (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a> <br><em>Yale University, USA</em>
@@ -265,7 +265,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:20-9:40 a.m. 
+        9:20-9:40 a.m. (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
@@ -282,7 +282,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:40-10:00 a.m. (including 5 min questions)
+        9:40-10:00 a.m. (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Mitch Creelman <br><em>National Solar Observatory, USA</em>
@@ -297,12 +297,29 @@ Tata Institute of Fundamental Research, Mumbai
        talk
       </td>
     </tr>
-<tr>
+	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:00-10:30 p.m. (including 5 min questions)
+        -10:00 a.m. (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        XX <br><em> XX</em>
+      XX Exoplanets ? <br><em></em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        10:00-10:15 a.m. 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        speedy coffee break
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         TBC
@@ -318,41 +335,7 @@ Tata Institute of Fundamental Research, Mumbai
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        xx a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        xx a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       speaker<br><em>Institute</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        Title
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:00 p.m. - 4:00 p.m.
+        10:15 a.m. - 1:15 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
@@ -367,7 +350,23 @@ Tata Institute of Fundamental Research, Mumbai
        workshop
       </td>
     </tr>
-	  
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:00 p.m. - 2 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       lunch 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+       --
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        --
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       meet virtually 
+      </td>
+    </tr>	  
    
   </tbody>
 </table>
