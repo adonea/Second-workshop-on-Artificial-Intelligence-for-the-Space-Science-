@@ -64,6 +64,10 @@ The online workshop will run over two days:
 	
 A Mt Kent Observatory visit can be organised after the workshop.
 
+**Time Table:**
+
+*<strong>All times in AEDT</strong>
+
 <details><summary>Session 1: 2 May 2024 Timetable</summary>
 <p>
 
