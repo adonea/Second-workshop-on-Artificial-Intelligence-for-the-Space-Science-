@@ -118,13 +118,13 @@ A Mt Kent Observatory visit can be organised after the workshop.
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Training for feature detection 
+        Training for feature detection , imaged based analysis
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       workshop 
+       workshop  
       </td>
     </tr>
     <tr>
