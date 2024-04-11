@@ -159,7 +159,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>	 
    <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:20-1:40 p.m. (including 5 min questions)
+        1:20-1:40 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Mahsa Salehi<br><em>Department of Data Science and Artificial Intelligence, Monash University, Melbourne, VIC, Australia</em>
@@ -176,7 +176,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:40-2:00
+        1:40-2:10 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
@@ -192,8 +192,40 @@ Tata Institute of Fundamental Research, Mumbai
        talk
       </td>
     </tr>
-
-    
+<tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2:20-2:50 (30 min)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
+  </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+       AI in time series
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2:20-2:40 (20 min)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dan Marrable, LEad Data Scientist, Curtin Institute for Data Science
+  </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Overview of AI/ML applications used at CIDS
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>  
   </tbody>
 </table>
 <p>
