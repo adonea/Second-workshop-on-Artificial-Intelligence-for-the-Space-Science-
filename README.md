@@ -28,13 +28,12 @@ Registration: <a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=
 Meeting ID: TBA once you enroll into the meeting
 Passcode: xxxxxxxxxx
 
-<P>
 **Email to organiser:**	
 </P>
 **Email to organiser:**
-Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
+Dr Alina Donea (Monash University), solar physicist: alina.donea at monash.edu
 
-Prof Brad Carter (USQ)
+Prof Brad Carter (USQ) Brad.Carter at unisq.edu.au
 
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
