@@ -30,11 +30,12 @@ Meeting ID: TBA once you enroll into the meeting
 Passcode: xxxxxxxxxx
 
 **Email to organiser:**	
-</P>
-**Email to organiser:**
-Dr Alina Donea (Monash University), solar physicist: alina.donea at monash.edu
 
-Prof Brad Carter (USQ) Brad.Carter at unisq.edu.au
+Admin: SpringfieldIAESS@unisq.edu.au (Louise)
+
+LOC: Dr Alina Donea (Monash University), solar physicist: alina.donea at monash.edu
+
+LOC: Prof Brad Carter (USQ) Brad.Carter at unisq.edu.au
 
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
@@ -112,13 +113,13 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>	  	 
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m. - 12 noon, coffee break 10:30-10:50 am
+        9:00 a.m. - 12 noon, with coffee break 10:30-10:50 am
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Training for feature detection , imaged based analysis
+        Training for feature detection algorithms, imaged based analysis
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
@@ -129,7 +130,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        12:00-1:00 p.m. 
+        12:00-1:00 p.m.  
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Lunch<br><em>Toowoomba Campus</em>
@@ -146,7 +147,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:00-1:20 p.m. (including 5 min questions)
+        1:00-1:20 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Mark Cheung<br><em>CSIRO Australia</em>
