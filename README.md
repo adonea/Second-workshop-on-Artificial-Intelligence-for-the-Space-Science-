@@ -25,6 +25,8 @@ Event Dates: 2nd to 3rd May 2024
 
 Registration: <a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=6930e5eccc0b4509ab73b301e984a776&id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u">Register here</a> 
 
+Registration:<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u">Register here!</a>
+
 Meeting ID: TBA once you enroll into the meeting
 Passcode: xxxxxxxxxx
 
