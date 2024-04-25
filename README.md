@@ -242,6 +242,25 @@ Tata Institute of Fundamental Research, Mumbai
        talk
       </td>
     </tr>  
+	  <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        3:30-4 p.m. 
+      </td>
+      <td headers="table69225r1c2">
+        coffee break and discussions, extension of questions on ML
+      </td>
+      <td headers="table69225r1c3">
+        on site and virtual
+Aplication OD :Visuals
+      </td>
+      <td headers="table69225r1c4">
+        Youtube
+      </td>
+      <td headers="table69225r1c5">
+	     <a href="https://github.com/merceavanessa/sunquakes">github link</a> 
+      </td>
+    </tr>
+	  
   </tbody>
 </table>
 <p>
