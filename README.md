@@ -63,7 +63,7 @@ The online workshop will run over two days:
   </ul>
 </div>
 	
-A Mt Kent Observatory visit can be organised after the workshop.
+
 
 **Time Table:**
 
@@ -120,6 +120,15 @@ A Mt Kent Observatory visit can be organised after the workshop.
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Training for feature detection algorithms, imaged based analysis
+
+       Introduce expert systems as the "simplest" AI.<P>
+Use seismic data (time/distance plots) and the task of identifying ripples as an example of how we can move from human to computer identification.<P>
+Investigate some of the features that humans look for in the images, which of these are "signal" and which are "noise".<P>
+Discuss the difference between detection and characterisation.<P>
+Create an algorithm (or modify existing one) which will help determine the SNR or similar metric for the data set.<P>
+Build a "ripple detector" using our algorithm and apply it to images.<P>
+This lesson will use Jupyter notebooks on people's local machines so they have something to take away after the event.<P>
+
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
