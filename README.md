@@ -72,7 +72,7 @@ The online workshop will run over two days:
 
 *<strong>All times in AEDT</strong>
 
-During Coffee breaks and lunch we will keep active the virtual GatherTown meeting at <a href="https://app.gather.town/invite?token=Vu-GXXovTIqx4MYtIJOp)token=ctfTaNakTBiqlVZvJr0i"> Meeting here </a>
+During Coffee breaks and lunch we will keep active the virtual GatherTown meeting at <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a>
 
 <details><summary>Session 1: 2 May 2024 Timetable</summary>
 <p>
