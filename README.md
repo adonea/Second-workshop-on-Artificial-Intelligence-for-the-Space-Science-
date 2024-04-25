@@ -116,7 +116,7 @@ The online workshop will run over two days:
     </tr>	  	 
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m. - 12 noon, with coffee break 10:30-10:50 am
+        9:00 a.m. - 12 noon, with coffee break 10:30-10:50 am (virtual GatherTown meeting at <a href="[https://app.gather.town/invite?](https://app.gather.town/invite?token=Vu-GXXovTIqx4MYtIJOp)token=ctfTaNakTBiqlVZvJr0i"> Meeting here </a>a>
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Dr Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
