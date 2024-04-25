@@ -158,7 +158,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:00-1:20 p.m. 
+        1:00-1:30 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Mark Cheung<br><em>CSIRO Australia</em>
@@ -175,7 +175,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
     </tr>	 
    <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:20-1:40 p.m. 
+        1:30-2:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Mahsa Salehi<br><em>Department of Data Science and Artificial Intelligence, Monash University, Melbourne, VIC, Australia</em>
@@ -192,7 +192,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        1:40-2:10 (30 min)
+        2:00-2:30 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
@@ -210,7 +210,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:20-2:50 (30 min)
+        2:30-3:00 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
@@ -227,7 +227,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:20-2:40 (20 min)
+        3:00-3:30 (20 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Dan Marrable, Lead Data Scientist, Curtin Institute for Data Science
