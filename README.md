@@ -133,6 +133,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
+	      <a href="https://adacs-australia.github.io/2024_05_02_SolarStellarSpacePhysics_ML_Workshop"> Materials and website </a>a>
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        workshop  
