@@ -116,7 +116,7 @@ The online workshop will run over two days:
         9:00 a.m. - 12 noon, with coffee break 10:30-10:50 am
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
+       <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Dr Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Training for feature detection algorithms, imaged based analysis<P>
@@ -195,7 +195,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
 Tata Institute of Fundamental Research, Mumbai 
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       TBA: AI 
+        AI and stellar 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
@@ -256,7 +256,7 @@ Tata Institute of Fundamental Research, Mumbai
   <thead>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00-9:20 a.m. (may be 15 mins , TBA)
+        9:00-9:20 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://christopher-lindsay.github.io/"> Christopher Lindsay</a> <br><em>Yale University, USA</em>
@@ -273,7 +273,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:20-9:40 a.m. (may be 15 mins , TBA)
+        9:20-9:40 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Amr Hamada <br><em>National Solar Observatory, USA</em>
@@ -290,10 +290,10 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:40-10:00 a.m. (may be 15 mins , TBA)
+        9:40-10:00 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Mitch Creelman <br><em>National Solar Observatory, USA</em>
+       Dr Mitch Creelman <br><em>National Solar Observatory, USA</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         Quality Assurance and Real Time Anomaly Detection in Production Datasets: Practical Applications of Machine Learning
@@ -307,10 +307,10 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        -10:00 a.m. (may be 15 mins only TBA)
+        10:00 a.m. - 10:15 am (may be 15 mins only TBA)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      XX Exoplanets Detection? <br><em></em>
+     Exoplanets Detection? <br><em></em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
         --
@@ -324,7 +324,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:00-10:15 a.m. 
+        10:15-10:30 a.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
          coffee break
@@ -343,7 +343,7 @@ Tata Institute of Fundamental Research, Mumbai
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:15 a.m. - 1:15 p.m. 
+        10:30 a.m. - 1:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
@@ -380,13 +380,13 @@ Tata Institute of Fundamental Research, Mumbai
         2:00 p.m. - 2:30 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      AI trivia
+      Dr Prasad Mani 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-      USQ/Monash trivia, who does what? flux pool 
+     Magnetic field in the Sun emerges unaffected by large-scale surface flows 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        3 minutes presentation, show your best graphic of recent research
+        Using deep-learning, we are able to peer through individual, highly noisy, flow images around magnetic regions in the Sun. Convolution neural networks improved S/N threshold in these images by a factor of  √2. 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        group
@@ -394,13 +394,13 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:30 p.m. - 2:45 p.m.
+        2:30 p.m. - 3:00 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      speaker
+      Mr Angel Martinez Cifuentes, Monash Univ
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-      institution
+      Sunquakes in the Sun (useful information when searching for staquakes)
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
@@ -411,13 +411,13 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	<tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:45 p.m. - 3:00 p.m.
+        3:00 p.m. - 3:30 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      speaker
+      Belinda Nicholson, USQ 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-      institution
+      Stars
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
