@@ -447,7 +447,6 @@ Tata Institute of Fundamental Research, Mumbai
        talks
       </td>
     </tr>
-
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
         3:45 p.m. - 4 p.m. coffee + closing remarks
