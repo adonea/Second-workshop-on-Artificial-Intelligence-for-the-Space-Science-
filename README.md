@@ -132,8 +132,8 @@ Build a "ripple detector" using our algorithm and apply it to images.<P>
 This lesson will use Jupyter notebooks on people's local machines so they have something to take away after the event.<P>
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> 
-	      <a href="https://adacs-australia.github.io/2024_05_02_SolarStellarSpacePhysics_ML_Workshop"> Materials and website </a>a>
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB released on Youtube</a> and 
+	      <a href="https://adacs-australia.github.io/2024_05_02_SolarStellarSpacePhysics_ML_Workshop"> Materials and website </a>
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        workshop  
