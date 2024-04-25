@@ -414,7 +414,7 @@ Tata Institute of Fundamental Research, Mumbai
         3:00 p.m. - 3:30 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-      Belinda Nicholson, USQ 
+      Dr Belinda Nicholson, USQ 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
       Stars
@@ -428,7 +428,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:00 p.m. - 3:15 p.m.
+        3:30 p.m. - 3:45 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
       speaker
@@ -443,26 +443,10 @@ Tata Institute of Fundamental Research, Mumbai
        talks
       </td>
     </tr>
+
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:15 p.m. - 3:30 p.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-      speaker
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-      institution
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-       <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talks
-      </td>
-    </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        3:30 p.m. - 4 p.m. coffee + Q&A
+        3:45 p.m. - 4 p.m. coffee + closing remarks
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Alina Donea + collabs
