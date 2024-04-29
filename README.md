@@ -330,45 +330,11 @@ Aplication OD :Visuals
        talk
       </td>
     </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        10:00 a.m. - 10:15 am (may be 15 mins only TBA)
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-     Exoplanets Detection? <br><em></em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        --
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
-<tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        10:15-10:30 a.m. 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-         coffee break
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        TBC
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>  
   </thead>
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:30 a.m. - 1:00 p.m. 
+        10:00 a.m. - 1:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
