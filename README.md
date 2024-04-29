@@ -358,7 +358,7 @@ Tata Institute of Fundamental Research, Mumbai
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       Workshop: Time series forcasting with ML(P)
+       Workshop 2: Time series forcasting with ML(P)
 	      Introduce time series data and what challenges are different from other types of data<P>
 The workshop will focus on predicting Sun spot numbers using historical data<P>
 hands on experience with something relevant to the learner's field<P>
