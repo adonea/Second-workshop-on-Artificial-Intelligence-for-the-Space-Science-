@@ -321,7 +321,7 @@ Aplication OD :Visuals
        Dr Mitch Creelman <br><em>National Solar Observatory, USA</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Quality Assurance and Real Time Anomaly Detection in Production Datasets: Practical Applications of Machine Learning
+	      Implementation of Discriminator Neural Networks for QAQC, Operational Implementations of AI at NISPDC
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
