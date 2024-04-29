@@ -163,11 +163,10 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
         1:00-1:30 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
-Tata Institute of Fundamental Research, Mumbai 
+       Dr Mark Cheung<br><em>CSIRO Australia</em> 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       AI and stars 
+       Applications of ML in Heliophysics
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">TB Youtubed</a> 
@@ -198,10 +197,11 @@ Tata Institute of Fundamental Research, Mumbai
         2:00-2:30 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dr Mark Cheung<br><em>CSIRO Australia</em>
+       Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
+Tata Institute of Fundamental Research, Mumbai 
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        AI Vision in Space and Astronomy Science in Australia
+        Stellar and Solar convection
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
