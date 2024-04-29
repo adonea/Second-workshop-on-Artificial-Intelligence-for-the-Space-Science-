@@ -436,7 +436,7 @@ Aplication OD :Visuals
     </tr>
 	<tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:00 p.m. - 3:30 p.m.
+        3:00 p.m. - 3:15 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
       Dr Belinda Nicholson, USQ 
