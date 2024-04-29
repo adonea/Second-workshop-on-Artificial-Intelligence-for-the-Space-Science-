@@ -209,27 +209,28 @@ Tata Institute of Fundamental Research, Mumbai
       <td style="text-align: center;" headers="table69225r1c5">
        talk
       </td>
-    </tr>
-<tr>
+    </tr>  
+	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:30-3:00 (30 min)
+        2:30-3:00 (20 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
+       coffee/tea  time and questions
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       AI in time series
+       ...
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       talk
+       ...
       </td>
-    </tr>
+    </tr> 
+	  
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:00-3:30 (20 min)
+        3:20-3:50 (20 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Dan Marrable, Lead Data Scientist, Curtin Institute for Data Science
@@ -246,20 +247,36 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>  
 	  <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        3:30-4 p.m. 
+        3:40-4:00 p.m. 
       </td>
       <td headers="table69225r1c2">
-        coffee break and discussions, extension of questions on ML
+        Dr. Siddharth Dhanpal 
       </td>
       <td headers="table69225r1c3">
-        on site and virtual
-Aplication OD :Visuals
+        Seeking plasma flow structures in emerging active regions with machine learning
       </td>
       <td headers="table69225r1c4">
         Youtube
       </td>
       <td headers="table69225r1c5">
 	     <a href="https://github.com/merceavanessa/sunquakes">github link</a> 
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2:30-3:00 (30 min)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
+  </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+       coffee break 3:00-3:20
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
       </td>
     </tr>
 	  
@@ -334,7 +351,7 @@ Aplication OD :Visuals
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:00 a.m. - 1:00 p.m. 
+        10:10 a.m. - 1:00 p.m. (coffee break TBA, most likely 11:10 am)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
@@ -417,29 +434,47 @@ Aplication OD :Visuals
        talks
       </td>
     </tr>
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        3:30 p.m. - 3:45 p.m.
+	  <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        3:15-3:35 p.m. 
       </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-      speaker
+      <td headers="table69225r1c2">
+        Matthew G Lennard, Sheffield University 
       </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-      institution
+      <td headers="table69225r1c3">
+        Seeking plasma flow structures in emerging active regions with machine learning
       </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-       <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
+      <td headers="table69225r1c4">
+        Youtube
       </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talks
+      <td headers="table69225r1c5">
+	     <a href="https://github.com/merceavanessa/sunquakes">github link</a> 
       </td>
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:45 p.m. - 4 p.m. coffee + closing remarks
+        3:35 p.m. - 3:50 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Dr Alina Donea + collabs
+ Coffee break and Trivia quiz: "Whose research is this?" 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+      Quiz on general knowledge on stars, sun, discoveries,AI
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+       ...
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       quiz and win
+      </td>
+    </tr>
+	  
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        3:50 p.m. - 4 p.m. coffee + closing remarks
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       Dr Alina Donea 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
       What is next? More training or networking and collaboration? Australian Resources for AI 
