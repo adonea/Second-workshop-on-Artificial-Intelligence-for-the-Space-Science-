@@ -101,7 +101,7 @@ During Coffee breaks and lunch we will keep active the virtual GatherTown meetin
   <tbody>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        8:30 a.m.
+        8:40 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Brad Carter
@@ -118,7 +118,7 @@ During Coffee breaks and lunch we will keep active the virtual GatherTown meetin
     </tr>	  	 
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m. - 12 noon, with coffee break 10:30-10:50 am 
+        9:00 a.m. - 12 noon, with coffee break 10:30
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Dr Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
@@ -194,7 +194,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:00-2:30 (30 min)
+        2:00-2:30 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Shravan Hanasoge, Faculty Member at the Tata Institute of Fundamental Research
@@ -212,7 +212,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>  
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:30-3:00 (20 min)
+        2:30-3:00 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        coffee/tea  time and questions
@@ -230,7 +230,7 @@ Tata Institute of Fundamental Research, Mumbai
 	  
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:00-3:30 (20 min)
+        3:00-3:30 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Dan Marrable, Lead Data Scientist, Curtin Institute for Data Science
@@ -250,10 +250,11 @@ Tata Institute of Fundamental Research, Mumbai
         3:30-3:50 p.m. 
       </td>
       <td headers="table69225r1c2">
-        Dr. Siddharth Dhanpal 
+        Dr. Siddharth Dhanpal <P>
+		Tata Institute of Fundamental Research
       </td>
       <td headers="table69225r1c3">
-        Seeking plasma flow structures in emerging active regions with machine learning
+        Asteroseismology of red giants using deep learning 
       </td>
       <td headers="table69225r1c4">
         Youtube
