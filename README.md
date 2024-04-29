@@ -247,7 +247,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>  
 	  <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        3:30-3:50 p.m. 
+        3:30-4:00 p.m. 
       </td>
       <td headers="table69225r1c2">
         Dr. Siddharth Dhanpal <P>
@@ -265,13 +265,13 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:50-4:20 (30 min)
+        4:00-4:30 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       coffee break 3:00-3:20
+       ...
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
