@@ -230,7 +230,7 @@ Tata Institute of Fundamental Research, Mumbai
 	  
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:20-3:50 (20 min)
+        3:00-3:30 (20 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr. Dan Marrable, Lead Data Scientist, Curtin Institute for Data Science
@@ -247,7 +247,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>  
 	  <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        3:40-4:00 p.m. 
+        3:30-3:50 p.m. 
       </td>
       <td headers="table69225r1c2">
         Dr. Siddharth Dhanpal 
@@ -264,7 +264,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:30-3:00 (30 min)
+        3:50-4:20 (30 min)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
@@ -351,13 +351,20 @@ Tata Institute of Fundamental Research, Mumbai
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:10 a.m. - 1:00 p.m. (coffee break TBA, most likely 11:10 am)
+        10:10 a.m. - 1:00 p.m. (coffee break is most likely 11:10 am)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       Workshop: Time series forcasting with ML
+       Workshop: Time series forcasting with ML(P)
+	      Introduce time series data and what challenges are different from other types of data<P>
+The workshop will focus on predicting Sun spot numbers using historical data<P>
+hands on experience with something relevant to the learner's field<P>
+simple enough to get results in the 3hr slot, but with enough detail that people can apply the lessons learned to their own data.<P>
+Explore various methods for prediction, validation, measuring error, and tuning models.<P>
+We will use scikit learn as the library, but the methods and techniques that we explore are available / applicable to other ML libraries.<P>
+This lesson will also use Jupyter notebooks.<P>
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
@@ -402,7 +409,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        2:30 p.m. - 3:00 p.m.
+        2:30 p.m. - 2:50 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
       Mr Angel Martinez Cifuentes, Monash Univ
@@ -419,7 +426,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	<tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:00 p.m. - 3:15 p.m.
+        2:50 p.m. - 3:05 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
       Dr Belinda Nicholson, USQ 
@@ -436,7 +443,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	  <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        3:15-3:35 p.m. 
+        3:05-3:25 p.m. 
       </td>
       <td headers="table69225r1c2">
         Matthew G Lennard, Sheffield University 
@@ -453,7 +460,7 @@ Tata Institute of Fundamental Research, Mumbai
     </tr>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:35 p.m. - 3:50 p.m.
+        3:25 p.m. - 3:40 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
  Coffee break and Trivia quiz: "Whose research is this?" 
@@ -471,7 +478,7 @@ Tata Institute of Fundamental Research, Mumbai
 	  
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:50 p.m. - 4 p.m. coffee + closing remarks
+        3:40 p.m. - 3:50 p.m. coffee + closing remarks
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Alina Donea 
