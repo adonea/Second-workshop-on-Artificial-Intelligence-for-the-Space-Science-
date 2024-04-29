@@ -124,7 +124,7 @@ During Coffee breaks and lunch we will keep active the virtual GatherTown meetin
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Dr Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Training for feature detection algorithms, imaged based analysis<P>
+        WORKSHOP 1: Training for feature detection algorithms, imaged based analysis<P>
 Introduce expert systems as the "simplest" AI.<P>
 Use seismic data (time/distance plots) and the task of identifying ripples as an example of how we can move from human to computer identification.<P>
 Investigate some of the features that humans look for in the images, which of these are "signal" and which are "noise".<P>
