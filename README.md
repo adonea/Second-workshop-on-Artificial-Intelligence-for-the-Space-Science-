@@ -475,11 +475,10 @@ This lesson will also use Jupyter notebooks.<P>
       <td style="text-align: center;" headers="table69225r1c5">
        quiz and win
       </td>
-    </tr>
-	  
+    </tr>  
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        3:40 p.m. - 3:50 p.m. coffee + closing remarks
+        3:40 p.m. - 4 p.m.  closing remarks
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Dr Alina Donea 
@@ -491,7 +490,7 @@ This lesson will also use Jupyter notebooks.<P>
        --
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       talks
+       talk
       </td>
     </tr>
   </tbody>
