@@ -101,7 +101,7 @@ During Coffee breaks and lunch we will keep active the virtual GatherTown meetin
   <tbody>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        8:40 a.m.
+        9:00 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        Prof. Brad Carter
@@ -118,7 +118,7 @@ During Coffee breaks and lunch we will keep active the virtual GatherTown meetin
     </tr>	  	 
   <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        9:00 a.m. - 12 noon, with coffee break 10:30
+        9:15 a.m. - 12:15 noon, with coffee break 10:30ish (Morning tea supplied, coffee is amazing))
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/">Dr Paul Hancock</a> , Curtin Univ,, ADACS <br><em>Institute</em>
@@ -146,7 +146,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
         12:00-1:00 p.m.  
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       Lunch<br><em>Toowoomba Campus</em>
+       Lunch supplied<br><em>Toowoomba Campus</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
        -- 
@@ -352,7 +352,7 @@ Tata Institute of Fundamental Research, Mumbai
   <tbody>
 	  <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        10:10 a.m. - 1:00 p.m. (coffee break is most likely 11:10 am)
+        10:10 a.m. - 1:00 p.m. (coffee break is most likely 11:10 am, supplied)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
        <a href="https://staffportal.curtin.edu.au/staff/profile/view/paul-hancock-023877e7/"> Dr Paul Hancock</a>, Curtin Univ,, ADACS <br><em>Institute</em>
@@ -379,7 +379,7 @@ This lesson will also use Jupyter notebooks.<P>
         1:00 p.m. - 2 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       lunch 
+       lunch supplied
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
        --
