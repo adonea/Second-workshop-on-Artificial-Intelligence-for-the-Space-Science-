@@ -38,7 +38,8 @@ LOC: Dr Alina Donea (Monash University), solar physicist: alina.donea at monash.
 LOC: Prof Brad Carter (USQ) Brad.Carter at unisq.edu.au
 
 INSTRUCTOR: Dr Paul Hancock, ADACS
-<body><p style="color:red;">Read this before the workshop</p></body>body>
+
+<body><p style="color:red;">Read this before the workshop</p></body>
 (the materials and website for the workshop 
 https://adacs-australia.github.io/2024_05_02_SolarStellarSpacePhysics_ML_Workshop)
 
