@@ -279,7 +279,7 @@ Tata Institute of Fundamental Research, Mumbai
        Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       not provided 
+       The Challenges of Time Series Analysis
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
@@ -441,7 +441,7 @@ This lesson will also use Jupyter notebooks.<P>
       Dr Belinda Nicholson, USQ 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-      Stars and 
+      Gaussian process regression and stellar parameters 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
