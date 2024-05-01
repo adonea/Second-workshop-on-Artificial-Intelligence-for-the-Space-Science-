@@ -4,7 +4,11 @@
  3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning <p>
 May 2, 3 2024, online hybrid format	
 </head>
+
+
 <body>
+**Meeting ID: 834 1112 3528**
+**Passcode: 188102**
 
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Logo_MDFI_MON_USQ.jpeg)
 
@@ -26,8 +30,8 @@ Event Dates: 2nd to 3rd May 2024
 
 Registration:<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u">Register here!</a>
 
-***Meeting ID: 834 1112 3528 ***
-***Passcode: 188102***
+**Meeting ID: 834 1112 3528**
+**Passcode: 188102**
 
 **Email to organiser:**	
 
