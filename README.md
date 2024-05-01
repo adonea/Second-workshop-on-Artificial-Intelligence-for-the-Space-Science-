@@ -3,10 +3,12 @@
 <head>
  3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning <p>
 May 2, 3 2024, online hybrid format	
+	 
 </head>
 
 
 <body>
+	
 **Meeting ID: 834 1112 3528**
 **Passcode: 188102**
 
