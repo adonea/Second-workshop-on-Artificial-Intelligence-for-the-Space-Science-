@@ -26,8 +26,8 @@ Event Dates: 2nd to 3rd May 2024
 
 Registration:<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k_v7fbYZhUmsflAaN5OEVqSZBOqqhuFJg2Fzr60CZalUN0FBOUJWU1VXT0tHTUVVVkhMNklBVE9COC4u">Register here!</a>
 
-Meeting ID: TBA once you enroll into the meeting
-Passcode: xxxxxxxxxx
+Meeting ID: 834 1112 3528 
+Passcode: 188102
 
 **Email to organiser:**	
 
@@ -140,7 +140,8 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
 	      <a href="https://adacs-australia.github.io/2024_05_02_SolarStellarSpacePhysics_ML_Workshop"> Materials and website </a>
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       workshop  
+       workshop , meetonline at <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a> 
+
       </td>
     </tr>
     <tr>
@@ -217,7 +218,7 @@ Tata Institute of Fundamental Research, Mumbai
         2:30-3:00 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-       coffee/tea  time and questions
+       coffee/tea  time and questions, meet online <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a>
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
        ...
@@ -273,7 +274,7 @@ Tata Institute of Fundamental Research, Mumbai
        Prof. Matthew Graham, Research Professor of Astronomy at the California Institute of Technology and the Project Scientist for the Zwicky Transient Facility (ZTF)
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       ...
+       not provided 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
@@ -373,7 +374,7 @@ This lesson will also use Jupyter notebooks.<P>
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-       workshop
+       workshop, meetonline <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a>
       </td>
     </tr>
 <tr>
