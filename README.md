@@ -141,7 +141,6 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
        workshop , meetonline at <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a> 
-
       </td>
     </tr>
     <tr>
