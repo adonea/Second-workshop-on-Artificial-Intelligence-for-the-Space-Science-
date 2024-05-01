@@ -435,7 +435,7 @@ This lesson will also use Jupyter notebooks.<P>
       Dr Belinda Nicholson, USQ 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-      Stars
+      Stars and 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a>  
