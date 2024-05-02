@@ -209,7 +209,7 @@ This lesson will use Jupyter notebooks on people's local machines so they have s
 Tata Institute of Fundamental Research, Mumbai 
   </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Stellar and Solar convection
+        Accelerating asteroseismic discovery using deep learning
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         ...
