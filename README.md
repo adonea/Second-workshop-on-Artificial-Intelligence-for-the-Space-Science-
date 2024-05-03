@@ -407,7 +407,7 @@ This lesson will also use Jupyter notebooks.<P>
       Dr Prasad Mani 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-     Magnetic field in the Sun emerges unaffected by large-scale surface flows 
+     Magnetic field in the Sun emergences unaffected by large-scale surface flows 
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         Using deep-learning, we are able to peer through individual, highly noisy, flow images around magnetic regions in the Sun. Convolution neural networks improved S/N threshold in these images by a factor of  √2. 
