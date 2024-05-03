@@ -78,7 +78,7 @@ The online workshop will run over two days:
 
 **Time Table:**
 
-*<strong>All times in AEDT</strong>
+*<strong>All times in AEST</strong>
 
 During Coffee breaks and lunch we will keep active the virtual GatherTown meeting at <a href="https://app.gather.town/invite?token=33FlcxEXR1GvgbRTlWEI"> Meeting here </a>
 
