@@ -472,7 +472,7 @@ This lesson will also use Jupyter notebooks.<P>
         3:25 p.m. - 3:40 p.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
- Coffee break and Trivia quiz: "Whose research is this?" 
+Closing  Trivia quiz: "Whose research is this?" 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
       Quiz on general knowledge on stars, sun, discoveries,AI
@@ -484,23 +484,7 @@ This lesson will also use Jupyter notebooks.<P>
        quiz and win
       </td>
     </tr>  
-	  <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        3:40 p.m. - 4 p.m.  closing remarks
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       Dr Alina Donea 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-      What is next? More training or networking and collaboration? Australian Resources for AI 
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-       --
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       talk
-      </td>
-    </tr>
+	 
   </tbody>
 </table>
 <p>
