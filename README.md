@@ -8,6 +8,8 @@ May 2, 3 2024, online hybrid format
 
 
 <body>
+
+PHOTOS HERE
 	
 **Meeting ID: 834 1112 3528**
 **Passcode: 188102**
